@@ -1,0 +1,32 @@
+{
+  "name": "webdev-essentials",
+  "displayName": "WebDev Essentials",
+  "publisher": "ArjunReddy",
+  "repository": {
+    "url": ""
+  },
+  "description": "Collection of essential VS Code extensions for Web Developer.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ritwickdey.LiveServer",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "oderwat.indent-rainbow",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "aaron-bond.better-comments",
+    "wayou.vscode-todo-highlight",
+    "usernamehw.errorlens",
+    "donjayamanne.githistory",
+    "wix.vscode-import-cost",
+    "vscode-icons-team.vscode-icons",
+    "RobbOwen.synthwave-vscode",
+    "johnpapa.vscode-peacock"
+  ]
+}
